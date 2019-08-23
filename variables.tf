@@ -1,5 +1,5 @@
 variable "resource_group_name" {
-  description = "(Required) Name of the resource group to deploy the KV"
+  description = "(Required) Name of the resource group to deploy the operations log."
 }
 
 variable "location" {

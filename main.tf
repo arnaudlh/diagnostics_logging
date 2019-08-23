@@ -1,7 +1,5 @@
-#Defines the subscription-wide logging and eventing settings
-#Creating the containers 
-#Using EventHubs and Storage Account
-#And defining fundamentals of subscription logging for all regions 
+#Defines the subscription-wide operations logging and eventing settings
+#Using EventHubs and Storage Account 
 
 resource "random_string" "random_postfix" {
     length  = 3
