@@ -38,7 +38,7 @@ variable "resource_group_name" {
 ```
 Example
 ```
-virtual_network_rg = "my-vnet"
+resource_group_name = "my-rg"
 ```
 
 ## location
